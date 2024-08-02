@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Eugene Dave G. Tumagan</h1>
 
-<div styles="display: grid">
+<div>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdwOGgwNHdvNmtyOHNqYXMyNXlnMmU1N28yZW9oc2prYjJkeXI3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="250" height="250"/>
   <div>
     <h3>💻 Languages / Tools </h1>
@@ -31,7 +31,7 @@
 <br>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eugene.dave.g.tumagan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/edtumagan21) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eugene.dave.g.tumagan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edtumagan21) 
 
 <br>
 
